@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot 1`] = `
+Array [
+  <ul>
+    <li>
+      <input
+        checked={false}
+        onChange={[Function]}
+        type="checkbox"
+      />
+      Learn ReactJS
+    </li>
+    <li>
+      <input
+        checked={true}
+        onChange={[Function]}
+        type="checkbox"
+      />
+      Learn css
+    </li>
+    <li>
+      <input
+        checked={false}
+        onChange={[Function]}
+        type="checkbox"
+      />
+      Web development
+    </li>
+  </ul>,
+  <label>
+     New Task:
+    <input
+      onChange={[Function]}
+      type="text"
+      value=""
+    />
+  </label>,
+  <button
+    onClick={[Function]}
+  >
+    Validate
+  </button>,
+]
+`;
